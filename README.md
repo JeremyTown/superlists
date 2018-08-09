@@ -1,1 +1,1 @@
-## Python测试驱动开发：使用 Django、Selenium 和JavaScript 进行Web编程（第2版）
+## Python测试驱动开发：使用 Django、Selenium 和JavaScript 进行Web编程
