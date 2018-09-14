@@ -1,8 +1,8 @@
-from django.contrib import admin
+import xadmin
 from django.urls import path
 from lists import views
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
+    path('xadmin/', xadmin.site.urls),
     path('',views.home_page,name='home')
 ]
